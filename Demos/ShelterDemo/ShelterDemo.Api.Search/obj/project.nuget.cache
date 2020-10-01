@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "dsoKarIo7Jnw04l56eocGS/USoF+smKIHJpbXRNx0v0Oz5oM3tbQWQ+fLv9vPchM18ttKHWQZIOfCbMAJptEJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RobertoAballe\\source\\repos\\ShelterDemo\\ShelterDemo.Api.Search\\ShelterDemo.Api.Search.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RobertoAballe\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.6\\microsoft.extensions.configuration.3.1.6.nupkg.sha512",
+    "C:\\Users\\RobertoAballe\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.6\\microsoft.extensions.configuration.abstractions.3.1.6.nupkg.sha512",
+    "C:\\Users\\RobertoAballe\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.6\\microsoft.extensions.configuration.binder.3.1.6.nupkg.sha512",
+    "C:\\Users\\RobertoAballe\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.6\\microsoft.extensions.dependencyinjection.3.1.6.nupkg.sha512",
+    "C:\\Users\\RobertoAballe\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.6\\microsoft.extensions.dependencyinjection.abstractions.3.1.6.nupkg.sha512",
+    "C:\\Users\\RobertoAballe\\.nuget\\packages\\microsoft.extensions.http\\3.1.6\\microsoft.extensions.http.3.1.6.nupkg.sha512",
+    "C:\\Users\\RobertoAballe\\.nuget\\packages\\microsoft.extensions.http.polly\\3.1.6\\microsoft.extensions.http.polly.3.1.6.nupkg.sha512",
+    "C:\\Users\\RobertoAballe\\.nuget\\packages\\microsoft.extensions.logging\\3.1.6\\microsoft.extensions.logging.3.1.6.nupkg.sha512",
+    "C:\\Users\\RobertoAballe\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.6\\microsoft.extensions.logging.abstractions.3.1.6.nupkg.sha512",
+    "C:\\Users\\RobertoAballe\\.nuget\\packages\\microsoft.extensions.options\\3.1.6\\microsoft.extensions.options.3.1.6.nupkg.sha512",
+    "C:\\Users\\RobertoAballe\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.6\\microsoft.extensions.primitives.3.1.6.nupkg.sha512",
+    "C:\\Users\\RobertoAballe\\.nuget\\packages\\polly\\7.1.0\\polly.7.1.0.nupkg.sha512",
+    "C:\\Users\\RobertoAballe\\.nuget\\packages\\polly.extensions.http\\3.0.0\\polly.extensions.http.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
